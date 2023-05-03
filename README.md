@@ -6,7 +6,7 @@
   <p> I am a software engineer who is passionate about working on purpose-driven initiatives and products. Most recently, I graduated from Hackreactor's 12-week intensive software engineering program in May 2023. Many of the projects on this page are from that course and initiatives I've been working on over at <a href="https://www.allweare.org"> All We Are </a>, where we're providing solar power for 300,000+ individuals in Uganda.
   
   </p>
-</div>
+
 
 
   <h3> Languages </h3>
@@ -47,7 +47,7 @@
    ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
+</div>
 
 
 
